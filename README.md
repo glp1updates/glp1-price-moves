@@ -15,6 +15,7 @@ Maintained by Calin Rasniceru, founder and editor of [glp1updates.com](https://g
 | Cuts | Median 33%, smallest 10.1%, largest 55.6% |
 | Format | CSV, UTF-8, one header row |
 | Licence | [CC BY 4.0](LICENSE) |
+| DOI | [10.5281/zenodo.24056779](https://doi.org/10.5281/zenodo.24056779) |
 | Status | A snapshot. The live record keeps updating on the site. |
 
 ## A look at the file
@@ -88,4 +89,4 @@ glp1updates.com earns a commission from some providers when a reader signs up th
 
 ## How to cite
 
-glp1updates.com, "GLP-1 telehealth price moves, 30 days to 2026-11-03", https://glp1updates.com/price-moves
+glp1updates.com, "GLP-1 telehealth price moves, 30 days to 2026-11-03", https://glp1updates.com/price-moves. DOI: https://doi.org/10.5281/zenodo.24056779

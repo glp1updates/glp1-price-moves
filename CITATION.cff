@@ -8,6 +8,7 @@ authors:
 version: "2026-11-03"
 date-released: 2026-11-03
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24056779"
 url: "https://glp1updates.com/price-moves"
 repository: "https://github.com/glp1updates/glp1-price-moves"
 abstract: "Every recorded change in the monthly listed price of GLP-1 plans at US telehealth providers in the 30 days to 2026-11-03: 20 changes at 7 providers, each with the old price, the new price, the day it was recorded and the provider's own page."
