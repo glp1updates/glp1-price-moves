@@ -1,0 +1,21 @@
+date_recorded,provider,verified_partner,plan,old_price_usd_per_month,new_price_usd_per_month,change_pct,direction,source_url,tracker_url
+2026-10-13,Yucca Health,false,GLP-1 (Semaglutide): 6-month plan,125,75,-40.0,cut,https://tryyucca.com/treatments/semaglutide,https://glp1updates.com/price-moves
+2026-10-13,Yucca Health,false,GLP-1 (Semaglutide): month-to-month,146,89,-39.0,cut,https://tryyucca.com/treatments/semaglutide,https://glp1updates.com/price-moves
+2026-10-13,Yucca Health,false,GLP-1 + GIP (Tirzepatide): 6-month plan,225,125,-44.4,cut,https://tryyucca.com/treatments/tirzepatide,https://glp1updates.com/price-moves
+2026-10-13,Yucca Health,false,GLP-1 + GIP (Tirzepatide): month-to-month,258,139,-46.1,cut,https://tryyucca.com/treatments/tirzepatide,https://glp1updates.com/price-moves
+2026-10-18,Noom Med,false,Microdose GLP-1Rx Program,199,179,-10.1,cut,https://www.noom.com/med/pricing/,https://glp1updates.com/price-moves
+2026-10-21,Maximus,false,Compounded tirzepatide: 12-month plan,149.99,99.99,-33.3,cut,https://www.maximustribe.com/weight-loss,https://glp1updates.com/price-moves
+2026-10-21,Maximus,false,Compounded tirzepatide: 2-month plan,249.99,199.99,-20.0,cut,https://www.maximustribe.com/weight-loss,https://glp1updates.com/price-moves
+2026-10-21,Maximus,false,Compounded tirzepatide: 4-month plan,219.99,149.99,-31.8,cut,https://www.maximustribe.com/weight-loss,https://glp1updates.com/price-moves
+2026-10-21,Maximus,false,Compounded tirzepatide: 6-month plan,199.99,119.99,-40.0,cut,https://www.maximustribe.com/weight-loss,https://glp1updates.com/price-moves
+2026-10-26,MEDVi,false,MEDVi Semaglutide program,299,199,-33.4,cut,https://glp1.medvi.org/,https://glp1updates.com/price-moves
+2026-10-26,Pallas Health,false,Mounjaro®,1349,1099,-18.5,cut,https://www.pallashealth.co/treatments/mounjaro,https://glp1updates.com/price-moves
+2026-10-26,Pallas Health,false,Ozempic®,1299,649,-50.0,cut,https://www.pallashealth.co/treatments/ozempic,https://glp1updates.com/price-moves
+2026-10-26,Pallas Health,false,Wegovy®,1349,599,-55.6,cut,https://www.pallashealth.co/treatments/wegovy,https://glp1updates.com/price-moves
+2026-10-26,Pallas Health,false,Zepbound®,1069,599,-44.0,cut,https://www.pallashealth.co/treatments/zepbound,https://glp1updates.com/price-moves
+2026-10-26,Strut Health,true,Compounded Injectable Tirzepatide,149,219,+47.0,rise,https://www.struthealth.com/mens-weight-loss/injectable-tirzepatide,https://glp1updates.com/price-moves
+2026-11-02,Strut Health,true,Compounded Injectable Tirzepatide,219,149,-32.0,cut,https://www.struthealth.com/mens-weight-loss/injectable-tirzepatide,https://glp1updates.com/price-moves
+2026-11-03,Embody,false,Compounded Semaglutide Injections: flat monthly,69,49,-29.0,cut,https://exclusive.joinem.co/,https://glp1updates.com/price-moves
+2026-11-03,Embody,false,Compounded Tirzepatide Injections: flat monthly,119,99,-16.8,cut,https://exclusive.joinem.co/,https://glp1updates.com/price-moves
+2026-11-03,Embody,true,Compounded semaglutide: 12-month supply,69,49,-29.0,cut,https://joinem.co/products/compounded-semaglutide-injection-twelve-month-supply,https://glp1updates.com/price-moves
+2026-11-03,Embody,false,Compounded tirzepatide: 12-month supply,119,99,-16.8,cut,https://joinem.co/products/compounded-tirzepatide-injection-twelve-month-supply,https://glp1updates.com/price-moves

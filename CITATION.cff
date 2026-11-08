@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "GLP-1 telehealth price moves, 30 days to 2026-11-03"
+type: dataset
+authors:
+  - family-names: Rasniceru
+    given-names: Calin
+    affiliation: "glp1updates.com"
+    website: "https://glp1updates.com"
+version: "2026-11-03"
+date-released: 2026-11-03
+license: CC-BY-4.0
+url: "https://glp1updates.com/price-moves"
+repository: "https://github.com/glp1updates/glp1-price-moves"
+abstract: "Every recorded change in the monthly listed price of GLP-1 plans at US telehealth providers in the 30 days to 2026-11-03: 20 changes at 7 providers, each with the old price, the new price, the day it was recorded and the provider's own page."
+keywords:
+  - GLP-1
+  - semaglutide
+  - tirzepatide
+  - drug pricing
+  - telehealth
