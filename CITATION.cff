@@ -3,9 +3,7 @@ message: "If you use this dataset, please cite it as below."
 title: "GLP-1 telehealth price moves, 30 days to 2026-11-03"
 type: dataset
 authors:
-  - family-names: Rasniceru
-    given-names: Calin
-    affiliation: "glp1updates.com"
+  - name: "glp1updates"
     website: "https://glp1updates.com"
 version: "2026-11-03"
 date-released: 2026-11-03
