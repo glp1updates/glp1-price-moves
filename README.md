@@ -15,7 +15,7 @@ Maintained by Calin Rasniceru, founder and editor of [glp1updates.com](https://g
 | Cuts | Median 33%, smallest 10.1%, largest 55.6% |
 | Format | CSV, UTF-8, one header row |
 | Licence | [CC BY 4.0](LICENSE) |
-| DOI | [10.5281/zenodo.24056779](https://doi.org/10.5281/zenodo.24056779) |
+| DOI | [10.5281/zenodo.24056778](https://doi.org/10.5281/zenodo.24056778), always the latest version |
 | Status | A snapshot. The live record keeps updating on the site. |
 
 ## A look at the file
@@ -76,6 +76,7 @@ A change in the monthly price of one plan between two readings, each confirmed a
 ## Related
 
 - [Price moves](https://glp1updates.com/price-moves): the live record, by provider and medication.
+- [Live CSV](https://glp1updates.com/price-moves/csv): the same columns, rebuilt daily.
 - [GLP-1 price index](https://glp1updates.com/price-index/csv): a CSV of every price on file, rebuilt daily, also CC BY 4.0.
 - [Methodology](https://glp1updates.com/methodology): how a price is read, dated and made comparable.
 
@@ -89,4 +90,8 @@ glp1updates.com earns a commission from some providers when a reader signs up th
 
 ## How to cite
 
-glp1updates.com, "GLP-1 telehealth price moves, 30 days to 2026-11-03", https://glp1updates.com/price-moves. DOI: https://doi.org/10.5281/zenodo.24056779
+glp1updates.com, "GLP-1 telehealth price moves, 30 days to 2026-11-03", https://glp1updates.com/price-moves. DOI: https://doi.org/10.5281/zenodo.24056778
+
+## Corrections
+
+- **2026-11-09, `verified_partner` on the Embody rows.** In the first release three of the four Embody rows had `verified_partner = false` and one had `true`. Embody is a partner at the provider level, so all four are `true` in this version. No price, date or source changed.
